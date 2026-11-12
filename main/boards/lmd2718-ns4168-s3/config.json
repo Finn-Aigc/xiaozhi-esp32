@@ -1,0 +1,10 @@
+{
+    "type": "lmd2718-ns4168-s3",
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "lmd2718-ns4168-s3",
+            "sdkconfig_append": []
+        }
+    ]
+}
